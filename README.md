@@ -1,2 +1,1 @@
-# AI-102
-Preparation of AI-102 Exam
+# AI-102 Preparation of AI-102 Exam
