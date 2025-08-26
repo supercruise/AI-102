@@ -1,8 +1,8 @@
-# 1. Develop generative AI apps in Azure
+# [1. Develop generative AI apps in Azure](https://learn.microsoft.com/en-us/training/paths/create-custom-copilots-ai-studio/)
 
 Generative Artificial Intelligence (AI) is becoming more accessible through comprehensive development platforms like Azure AI Foundry. Learn how to build generative AI applications that use language models to chat with your users.
 
-## 1.1 Plan and prepare to develop AI solutions on Azure
+## [1.1 Plan and prepare to develop AI solutions on Azure](https://learn.microsoft.com/en-us/training/modules/prepare-azure-ai-development/)
 
 Microsoft Azure offers multiple services that enable developers to build amazing AI-powered solutions. Proper planning and preparation involves identifying the services you'll use and creating an optimal working environment for your development team.
 
@@ -245,7 +245,7 @@ For latest news and information about developing AI applications on Azure, see A
 
 ---
 
-## 1.2 Choose and deploy models from the model catalog in Azure AI Foundry portal
+## [1.2 Choose and deploy models from the model catalog in Azure AI Foundry portal](https://learn.microsoft.com/en-us/training/modules/explore-models-azure-ai-studio/)
 
 Choose the various language models that are available through the Azure AI Foundry's model catalog. Understand how to select, deploy, and test a model, and to improve its performance.
 
@@ -628,3 +628,10 @@ Test a model and improve the performance of the model.
 
 ---
 
+## [1.3 Develop an AI app with the Azure AI Foundry SDK](https://learn.microsoft.com/en-us/training/modules/ai-foundry-sdk/)
+
+---
+
+## [1.4 Get started with prompt flow to develop language model apps in the Azure AI Foundry](https://learn.microsoft.com/en-us/training/modules/get-started-prompt-flow-ai-studio/)
+
+---
