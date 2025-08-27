@@ -30,8 +30,8 @@
 | 3. Develop natural language solutions in Azure | 3.7 Create speech-enabled apps with Azure AI services |   |   |
 | 3. Develop natural language solutions in Azure | 3.8 Translate speech with the Azure AI Speech service |   |   |
 | 3. Develop natural language solutions in Azure | 3.9 Develop an audio-enabled generative AI application |   |   |
-| 4. Develop computer vision solutions in Azure | 4.1 Analyze images |   |   |
-| 4. Develop computer vision solutions in Azure | 4.2 Read text in images |   |   |
+| 4. Develop computer vision solutions in Azure | 4.1 Analyze images |   |  DONE |
+| 4. Develop computer vision solutions in Azure | 4.2 Read text in images |   | DONE  |
 | 4. Develop computer vision solutions in Azure | 4.3 Detect, analyze, and recognize faces |   |   |
 | 4. Develop computer vision solutions in Azure | 4.4 Classify images |   |   |
 | 4. Develop computer vision solutions in Azure | 4.5 Detect objects in images |   |   |
