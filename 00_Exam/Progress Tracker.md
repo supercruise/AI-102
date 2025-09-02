@@ -36,7 +36,7 @@
 | 4. Develop computer vision solutions in Azure | 4.4 Classify images |   |  DONE  |
 | 4. Develop computer vision solutions in Azure | 4.5 Detect objects in images |   |  DONE  |
 | 4. Develop computer vision solutions in Azure | 4.6 Analyze video |   |  DONE  |
-| 4. Develop computer vision solutions in Azure | 4.7 Develop a vision-enabled generative AI application |   |   |
+| 4. Develop computer vision solutions in Azure | 4.7 Develop a vision-enabled generative AI application |   |  DONE  |
 | 4. Develop computer vision solutions in Azure | 4.8 Generate images with AI |   |   |
 | 5. Develop AI information extraction solutions in Azure | 5.1 Create a multimodal analysis solution with Azure AI Content Understanding |   |   |
 | 5. Develop AI information extraction solutions in Azure | 5.2 Create an Azure AI Content Understanding client application |   |   |
