@@ -38,8 +38,8 @@
 | 4. Develop computer vision solutions in Azure | 4.6 Analyze video |   |  DONE  |
 | 4. Develop computer vision solutions in Azure | 4.7 Develop a vision-enabled generative AI application |   |  DONE  |
 | 4. Develop computer vision solutions in Azure | 4.8 Generate images with AI |   | DONE  |
-| 5. Develop AI information extraction solutions in Azure | 5.1 Create a multimodal analysis solution with Azure AI Content Understanding |   |   |
-| 5. Develop AI information extraction solutions in Azure | 5.2 Create an Azure AI Content Understanding client application |   |   |
-| 5. Develop AI information extraction solutions in Azure | 5.3 Use prebuilt Document intelligence models |   |   |
-| 5. Develop AI information extraction solutions in Azure | 5.4 Extract data from forms with Azure Document intelligence |   |   |
-| 5. Develop AI information extraction solutions in Azure | 5.5 Create a knowledge mining solution with Azure AI Search |   |   |
+| 5. Develop AI information extraction solutions in Azure | 5.1 Create a multimodal analysis solution with Azure AI Content Understanding |   |  DONE |
+| 5. Develop AI information extraction solutions in Azure | 5.2 Create an Azure AI Content Understanding client application |   | DONE  |
+| 5. Develop AI information extraction solutions in Azure | 5.3 Use prebuilt Document intelligence models |   |  DONE |
+| 5. Develop AI information extraction solutions in Azure | 5.4 Extract data from forms with Azure Document intelligence |   | DONE  |
+| 5. Develop AI information extraction solutions in Azure | 5.5 Create a knowledge mining solution with Azure AI Search |   | DONE  |
