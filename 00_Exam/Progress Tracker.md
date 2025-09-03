@@ -14,13 +14,14 @@
 | 1. Develop generative AI apps in Azure | 1.6 Fine-tune a language model with Azure AI Foundry |   |   |
 | 1. Develop generative AI apps in Azure | 1.7 Implement a responsible generative AI solution in Azure AI Foundry |   |   |
 | 1. Develop generative AI apps in Azure | 1.8 Evaluate generative AI performance in Azure AI Foundry portal |   |   |
-| 2. Develop AI agents on Azure | 2.1 Get started with AI agent development on Azure |   |   |
-| 2. Develop AI agents on Azure | 2.2 Develop an AI agent with Azure AI Foundry Agent Service |   |   |
-| 2. Develop AI agents on Azure | 2.3 Integrate custom tools into your agent |   |   |
-| 2. Develop AI agents on Azure | 2.4 Develop a multi-agent solution with Azure AI Foundry Agent Service |   |   |
-| 2. Develop AI agents on Azure | 2.5 Integrate MCP Tools with Azure AI Agents |   |   |
-| 2. Develop AI agents on Azure | 2.6 Develop an AI agent with Semantic Kernel |   |   |
-| 2. Develop AI agents on Azure | 2.7 Orchestrate a multi-agent solution using Semantic Kernel |   |   |
+| [2. Develop AI agents on Azure](https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-on-azure/) | [2.1 Get started with AI agent development on Azure](https://learn.microsoft.com/en-us/training/modules/ai-agent-fundamentals/) |   |  DONE |
+| [2. Develop AI agents on Azure](https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-on-azure/) | [2.2 Develop an AI agent with Azure AI Foundry Agent Service](https://learn.microsoft.com/en-us/training/modules/develop-ai-agent-azure/) |   | DONE  |
+| [2. Develop AI agents on Azure](https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-on-azure/) | [2.3 Integrate custom tools into your agent](https://learn.microsoft.com/en-us/training/modules/build-agent-with-custom-tools/) |   |   |
+| [2. Develop AI agents on Azure](https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-on-azure/) | [2.4 Develop a multi-agent solution with Azure AI Foundry Agent Service](https://learn.microsoft.com/en-us/training/modules/develop-multi-agent-azure-ai-foundry/) |   |   |
+| [2. Develop AI agents on Azure](https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-on-azure/) | [2.5 Integrate MCP Tools with Azure AI Agents](https://learn.microsoft.com/en-us/training/modules/connect-agent-to-mcp-tools/) |   |   |
+| [2. Develop AI agents on Azure](https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-on-azure/) | [2.6 Develop an AI agent with Semantic Kernel](https://learn.microsoft.com/en-us/training/modules/develop-ai-agent-with-semantic-kernel/) |   |   |
+| [2. Develop AI agents on Azure](https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-on-azure/) | [2.7 Orchestrate a multi-agent solution using Semantic Kernel](https://learn.microsoft.com/en-us/training/modules/orchestrate-semantic-kernel-multi-agent-solution/) |   |   |
+| [2. Develop AI agents on Azure](https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-on-azure/) | [2.8 Discover Azure AI Agents with A2A](https://learn.microsoft.com/en-us/training/modules/discover-agents-with-a2a/) |   |   |
 | 3. Develop natural language solutions in Azure | 3.1 Analyze text with Azure AI Language |   |   |
 | 3. Develop natural language solutions in Azure | 3.2 Create question answering solutions with Azure AI Language |   |   |
 | 3. Develop natural language solutions in Azure | 3.3 Build a conversational language understanding model |   |   |
