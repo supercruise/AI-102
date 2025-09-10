@@ -6,14 +6,14 @@
 
 | Learning Pathes | Courses | Copied Text | Read Text |
 | -- | -- | -- | -- |
-| 1. Develop generative AI apps in Azure | 1.1 Plan and prepare to develop AI solutions on Azure | YES |   |
-| 1. Develop generative AI apps in Azure | 1.2 Choose and deploy models from the model catalog in Azure AI Foundry portal | YES |   |
-| 1. Develop generative AI apps in Azure | 1.3 Develop an AI app with the Azure AI Foundry SDK |   |   |
-| 1. Develop generative AI apps in Azure | 1.4 Get started with prompt flow to develop language model apps in the Azure AI Foundry |   |   |
-| 1. Develop generative AI apps in Azure | 1.5 Develop a RAG-based solution with your own data using Azure AI Foundry |   |   |
-| 1. Develop generative AI apps in Azure | 1.6 Fine-tune a language model with Azure AI Foundry |   |   |
-| 1. Develop generative AI apps in Azure | 1.7 Implement a responsible generative AI solution in Azure AI Foundry |   |   |
-| 1. Develop generative AI apps in Azure | 1.8 Evaluate generative AI performance in Azure AI Foundry portal |   |   |
+| [1. Develop generative AI apps in Azure](https://learn.microsoft.com/en-us/training/paths/create-custom-copilots-ai-studio/) | 1.1 Plan and prepare to develop AI solutions on Azure | YES |   |
+| [1. Develop generative AI apps in Azure](https://learn.microsoft.com/en-us/training/paths/create-custom-copilots-ai-studio/) | 1.2 Choose and deploy models from the model catalog in Azure AI Foundry portal | YES |   |
+| [1. Develop generative AI apps in Azure](https://learn.microsoft.com/en-us/training/paths/create-custom-copilots-ai-studio/) | 1.3 Develop an AI app with the Azure AI Foundry SDK |   |   |
+| [1. Develop generative AI apps in Azure](https://learn.microsoft.com/en-us/training/paths/create-custom-copilots-ai-studio/) | 1.4 Get started with prompt flow to develop language model apps in the Azure AI Foundry |   |   |
+| [1. Develop generative AI apps in Azure](https://learn.microsoft.com/en-us/training/paths/create-custom-copilots-ai-studio/) | 1.5 Develop a RAG-based solution with your own data using Azure AI Foundry |   |   |
+| [1. Develop generative AI apps in Azure](https://learn.microsoft.com/en-us/training/paths/create-custom-copilots-ai-studio/) | 1.6 Fine-tune a language model with Azure AI Foundry |   |   |
+| [1. Develop generative AI apps in Azure](https://learn.microsoft.com/en-us/training/paths/create-custom-copilots-ai-studio/) | 1.7 Implement a responsible generative AI solution in Azure AI Foundry |   |   |
+| [1. Develop generative AI apps in Azure](https://learn.microsoft.com/en-us/training/paths/create-custom-copilots-ai-studio/) | 1.8 Evaluate generative AI performance in Azure AI Foundry portal |   |   |
 | [2. Develop AI agents on Azure](https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-on-azure/) | [2.1 Get started with AI agent development on Azure](https://learn.microsoft.com/en-us/training/modules/ai-agent-fundamentals/) |   |  DONE |
 | [2. Develop AI agents on Azure](https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-on-azure/) | [2.2 Develop an AI agent with Azure AI Foundry Agent Service](https://learn.microsoft.com/en-us/training/modules/develop-ai-agent-azure/) |   | DONE  |
 | [2. Develop AI agents on Azure](https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-on-azure/) | [2.3 Integrate custom tools into your agent](https://learn.microsoft.com/en-us/training/modules/build-agent-with-custom-tools/) |   |   |
@@ -22,25 +22,25 @@
 | [2. Develop AI agents on Azure](https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-on-azure/) | [2.6 Develop an AI agent with Semantic Kernel](https://learn.microsoft.com/en-us/training/modules/develop-ai-agent-with-semantic-kernel/) |   |   |
 | [2. Develop AI agents on Azure](https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-on-azure/) | [2.7 Orchestrate a multi-agent solution using Semantic Kernel](https://learn.microsoft.com/en-us/training/modules/orchestrate-semantic-kernel-multi-agent-solution/) |   |   |
 | [2. Develop AI agents on Azure](https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-on-azure/) | [2.8 Discover Azure AI Agents with A2A](https://learn.microsoft.com/en-us/training/modules/discover-agents-with-a2a/) |   |   |
-| 3. Develop natural language solutions in Azure | 3.1 Analyze text with Azure AI Language |   |   |
-| 3. Develop natural language solutions in Azure | 3.2 Create question answering solutions with Azure AI Language |   |   |
-| 3. Develop natural language solutions in Azure | 3.3 Build a conversational language understanding model |   |   |
-| 3. Develop natural language solutions in Azure | 3.4 Create a custom text classification solution |   |   |
-| 3. Develop natural language solutions in Azure | 3.5 Custom named entity recognition |   |   |
-| 3. Develop natural language solutions in Azure | 3.6 Translate text with Azure AI Translator service |   |   |
-| 3. Develop natural language solutions in Azure | 3.7 Create speech-enabled apps with Azure AI services |   |   |
-| 3. Develop natural language solutions in Azure | 3.8 Translate speech with the Azure AI Speech service |   |   |
-| 3. Develop natural language solutions in Azure | 3.9 Develop an audio-enabled generative AI application |   |   |
-| 4. Develop computer vision solutions in Azure | 4.1 Analyze images |   |  DONE |
-| 4. Develop computer vision solutions in Azure | 4.2 Read text in images |   | DONE  |
-| 4. Develop computer vision solutions in Azure | 4.3 Detect, analyze, and recognize faces |   |  DONE |
-| 4. Develop computer vision solutions in Azure | 4.4 Classify images |   |  DONE  |
-| 4. Develop computer vision solutions in Azure | 4.5 Detect objects in images |   |  DONE  |
-| 4. Develop computer vision solutions in Azure | 4.6 Analyze video |   |  DONE  |
-| 4. Develop computer vision solutions in Azure | 4.7 Develop a vision-enabled generative AI application |   |  DONE  |
-| 4. Develop computer vision solutions in Azure | 4.8 Generate images with AI |   | DONE  |
-| 5. Develop AI information extraction solutions in Azure | 5.1 Create a multimodal analysis solution with Azure AI Content Understanding |   |  DONE |
-| 5. Develop AI information extraction solutions in Azure | 5.2 Create an Azure AI Content Understanding client application |   | DONE  |
-| 5. Develop AI information extraction solutions in Azure | 5.3 Use prebuilt Document intelligence models |   |  DONE |
-| 5. Develop AI information extraction solutions in Azure | 5.4 Extract data from forms with Azure Document intelligence |   | DONE  |
-| 5. Develop AI information extraction solutions in Azure | 5.5 Create a knowledge mining solution with Azure AI Search |   | DONE  |
+| [3. Develop natural language solutions in Azure](https://learn.microsoft.com/en-us/training/paths/develop-language-solutions-azure-ai/) | [3.1 Analyze text with Azure AI Language](https://learn.microsoft.com/en-us/training/modules/analyze-text-ai-language/) |   |   |
+| [3. Develop natural language solutions in Azure](https://learn.microsoft.com/en-us/training/paths/develop-language-solutions-azure-ai/) | [3.2 Create question answering solutions with Azure AI Language](https://learn.microsoft.com/en-us/training/modules/create-question-answer-solution-ai-language/) |   |   |
+| [3. Develop natural language solutions in Azure](https://learn.microsoft.com/en-us/training/paths/develop-language-solutions-azure-ai/) | [3.3 Build a conversational language understanding model](https://learn.microsoft.com/en-us/training/modules/build-language-understanding-model/) |   |   |
+| [3. Develop natural language solutions in Azure](https://learn.microsoft.com/en-us/training/paths/develop-language-solutions-azure-ai/) | [3.4 Create a custom text classification solution](https://learn.microsoft.com/en-us/training/modules/custom-text-classification/) |   |   |
+| [3. Develop natural language solutions in Azure](https://learn.microsoft.com/en-us/training/paths/develop-language-solutions-azure-ai/) | [3.5 Custom named entity recognition](https://learn.microsoft.com/en-us/training/modules/custom-name-entity-recognition/) |   |   |
+| [3. Develop natural language solutions in Azure](https://learn.microsoft.com/en-us/training/paths/develop-language-solutions-azure-ai/) | [3.6 Translate text with Azure AI Translator service](https://learn.microsoft.com/en-us/training/modules/translate-text-with-translator-service/) |   |   |
+| [3. Develop natural language solutions in Azure](https://learn.microsoft.com/en-us/training/paths/develop-language-solutions-azure-ai/) | [3.7 Create speech-enabled apps with Azure AI services](https://learn.microsoft.com/en-us/training/modules/create-speech-enabled-apps/) |   |   |
+| [3. Develop natural language solutions in Azure](https://learn.microsoft.com/en-us/training/paths/develop-language-solutions-azure-ai/) | [3.8 Translate speech with the Azure AI Speech service](https://learn.microsoft.com/en-us/training/modules/translate-speech-speech-service/) |   |   |
+| [3. Develop natural language solutions in Azure](https://learn.microsoft.com/en-us/training/paths/develop-language-solutions-azure-ai/) | [3.9 Develop an audio-enabled generative AI application](https://learn.microsoft.com/en-us/training/modules/develop-generative-ai-audio-apps/) |   |   |
+| [4. Develop computer vision solutions in Azure](https://learn.microsoft.com/en-us/training/paths/create-computer-vision-solutions-azure-ai/) | 4.1 Analyze images |   |  DONE |
+| [4. Develop computer vision solutions in Azure](https://learn.microsoft.com/en-us/training/paths/create-computer-vision-solutions-azure-ai/) | 4.2 Read text in images |   | DONE  |
+| [4. Develop computer vision solutions in Azure](https://learn.microsoft.com/en-us/training/paths/create-computer-vision-solutions-azure-ai/) | 4.3 Detect, analyze, and recognize faces |   |  DONE |
+| [4. Develop computer vision solutions in Azure](https://learn.microsoft.com/en-us/training/paths/create-computer-vision-solutions-azure-ai/) | 4.4 Classify images |   |  DONE  |
+| [4. Develop computer vision solutions in Azure](https://learn.microsoft.com/en-us/training/paths/create-computer-vision-solutions-azure-ai/) | 4.5 Detect objects in images |   |  DONE  |
+| [4. Develop computer vision solutions in Azure](https://learn.microsoft.com/en-us/training/paths/create-computer-vision-solutions-azure-ai/) | 4.6 Analyze video |   |  DONE  |
+| [4. Develop computer vision solutions in Azure](https://learn.microsoft.com/en-us/training/paths/create-computer-vision-solutions-azure-ai/) | 4.7 Develop a vision-enabled generative AI application |   |  DONE  |
+| [4. Develop computer vision solutions in Azure](https://learn.microsoft.com/en-us/training/paths/create-computer-vision-solutions-azure-ai/) | 4.8 Generate images with AI |   | DONE  |
+| [5. Develop AI information extraction solutions in Azure](https://learn.microsoft.com/en-us/training/paths/ai-extract-information/) | 5.1 Create a multimodal analysis solution with Azure AI Content Understanding |   |  DONE |
+| [5. Develop AI information extraction solutions in Azure](https://learn.microsoft.com/en-us/training/paths/ai-extract-information/) | 5.2 Create an Azure AI Content Understanding client application |   | DONE  |
+| [5. Develop AI information extraction solutions in Azure](https://learn.microsoft.com/en-us/training/paths/ai-extract-information/) | 5.3 Use prebuilt Document intelligence models |   |  DONE |
+| [5. Develop AI information extraction solutions in Azure](https://learn.microsoft.com/en-us/training/paths/ai-extract-information/) | 5.4 Extract data from forms with Azure Document intelligence |   | DONE  |
+| [5. Develop AI information extraction solutions in Azure](https://learn.microsoft.com/en-us/training/paths/ai-extract-information/) | 5.5 Create a knowledge mining solution with Azure AI Search |   | DONE  |
