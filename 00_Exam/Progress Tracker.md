@@ -6,7 +6,7 @@
 
 | Learning Pathes | Courses | Copied Text | Read Text |
 | -- | -- | -- | -- |
-| [1. Develop generative AI apps in Azure](https://learn.microsoft.com/en-us/training/paths/create-custom-copilots-ai-studio/) | 1.1 Plan and prepare to develop AI solutions on Azure | YES |   |
+| [1. Develop generative AI apps in Azure](https://learn.microsoft.com/en-us/training/paths/create-custom-copilots-ai-studio/) | [1.1 Plan and prepare to develop AI solutions on Azure](https://learn.microsoft.com/en-us/training/modules/prepare-azure-ai-development/) | YES |  DONE |
 | [1. Develop generative AI apps in Azure](https://learn.microsoft.com/en-us/training/paths/create-custom-copilots-ai-studio/) | 1.2 Choose and deploy models from the model catalog in Azure AI Foundry portal | YES |   |
 | [1. Develop generative AI apps in Azure](https://learn.microsoft.com/en-us/training/paths/create-custom-copilots-ai-studio/) | 1.3 Develop an AI app with the Azure AI Foundry SDK |   |   |
 | [1. Develop generative AI apps in Azure](https://learn.microsoft.com/en-us/training/paths/create-custom-copilots-ai-studio/) | 1.4 Get started with prompt flow to develop language model apps in the Azure AI Foundry |   |   |
